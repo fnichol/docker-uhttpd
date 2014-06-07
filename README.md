@@ -1,6 +1,6 @@
 # docker-uhttpd
 
-A [Docker][docker] micro image for [uhttpd][uhttp], a tiny, lightweight web server. The image is built using [progrium/busybox][progrium_busybox] to keep the footprint as small as possible. If you need a quick and small static HTTP server, give this one a go!
+A [Docker][docker] micro image for [uhttpd][uhttpd], a tiny, lightweight web server. The image is built using [progrium/busybox][progrium_busybox] to keep the footprint as small as possible. If you need a quick and small static HTTP server, give this one a go!
 
 ## Getting the Image
 
